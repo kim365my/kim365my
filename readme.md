@@ -1,7 +1,7 @@
 # 안녕하세요
 반갑습니다!
 
-**languages and tools :**
+---
 <!-- 뱃지 사용방법 -->
   <!-- 뱃지 아이콘 사이트 -->
   <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
